@@ -1,4 +1,4 @@
-NyanCoin (NYAN)
+NyanCoin (NYAN, Ɲ)
 ===========
 
 <a href="http://imgur.com/Jm2KFOD"><img src="http://i.imgur.com/Jm2KFOD.png" title="Hosted by imgur.com" /></a>
